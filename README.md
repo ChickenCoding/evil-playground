@@ -1,10 +1,16 @@
 ## Evil Playground
 
+This is a fork of [Evil playground][evil-playground].
+
+This replaces [mocha][mocha]/[chai][chai] by [ava][ava].
+
+
 Just a simple playground that can be used for trying things out or just to explain something to someone.
 Provides an environment set up to use es2015 Javascript that will auto run changes you make.
 Other features include a colorful logging system and mocha-chai set up for writting specs for your own assertions.
 
 As always this will only work with a POSIX based system.
+
 
 ### Install
 
